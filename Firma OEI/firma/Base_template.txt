@@ -1,0 +1,80 @@
+<p style="line-height: 10%;"><strong>%%DisplayName%%</strong></p>
+<p style="line-height: 10%;">%%Title%%</p>
+<p style="line-height: 10%;">%%Office%%</p>
+<p style="line-height: 10%;">&nbsp;</p>
+<p style="line-height: 10%;">%%Street%% %%City%%; %%Country%%</p>
+<p style="line-height: 10%;">%%PhoneNumber%%&nbsp;</p>
+<p style="line-height: 10%;">
+    <a href="mailto:%%WindowsEmailAddress%%">%%WindowsEmailAddress%%</a>
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+<p style="line-height: 10%;">&nbsp;</p>
+<h6><span style="color: #00ccff;">Antes de imprimir, piense en el Medio Ambiente.&nbsp;Antes do imprimir, pense no Meio Ambiente</span></h6>
+<p style="line-height: 10%;">&nbsp;</p>
+<h6><span style="font-family: Arial;"line-height: 10%;"">En conformidad con el Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo del 27 de
+     abril de 2016 relativo a la protecci&oacute;n de las personas f&iacute;sicas en lo que respecta al tratamiento de datos personales y a la 
+     circulaci&oacute;n de estos, la OEI tratar&aacute; sus datos personales en los t&eacute;rminos expuestos en 
+     su&nbsp;<a href="https://oei.int/inicio/politica-de-privacidad">pol&iacute;tica de privacidad&nbsp;</a></span></h6>
+<p style="font-family: Arial;">La informaci&oacute;n contenida en este mensaje de correo electr&oacute;nico y, en su caso, en cualquier fichero anexo al 
+    mismo, tiene car&aacute;cter reservado y confidencial para uso exclusivo de su destinatario o destinatarios, por lo que su divulgaci&oacute;n, copia o 
+    distribuci&oacute;n a terceros est&aacute;n expresamente prohibidas. En el caso de haber recibido este mensaje por error se ruega comunicarlo inmediatamente 
+    mediante reenv&iacute;o a la direcci&oacute;n electr&oacute;nica del remitente, elimin&aacute;ndolo a continuaci&oacute;n</p>
+
+
+
+    <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+   <HEAD>
+      <TITLE>Email Signature</TITLE>
+      <META content="text/html; charset=utf-8" http-equiv="Content-Type">
+   </HEAD>
+   <BODY>
+      <table style="width: 400px; font-size: 9pt; font-family: Arial, sans-serif; line-height:normal; background: transparent !important;" cellpadding="0" cellspacing="0">
+         <tbody>
+            <tr>
+               <td style=" font-size:12pt; font-family:Arial,sans-serif; color:#1793ce; padding-bottom:6px;  width:259px"><span style="font-family: Arial, sans-serif; color:#1793ce; font-weight: bold">%%FirstName%% %%LastName%%</span><span style="font-family: Arial, sans-serif; color:#878787; font-size: 10pt;"><span style="font-family: Arial, sans-serif; color:#878787"><br>%%Title%%</span></span></td>
+               <td style=" width:141px;  padding-bottom:6px; text-align:right;"><a href="https://www.my-company.com/" target="_blank"><img border="0" height="36" style="width:auto; height:36px; border:0;" src="https://www.mail-signatures.com/signature-generator/img/templates/all-inclusive/logo.png"></a></td>
+            </tr>
+            <tr>
+               <td style="width:400px; border-top:1px solid; border-top-color:#1793ce;" colspan="2" width="400">&nbsp;</td>
+            </tr>
+            <tr>
+               <td style=" font-size: 10pt; font-family: Arial, sans-serif; font-weight:bold; color: #2c2c2c; width:400px;" colspan="2" width="400"><span style="font-family: Arial, sans-serif; color:#2c2c2c">%%Company%%</span></td>
+            </tr>
+            <tr>
+               <td style=" font-size: 10pt; font-family: Arial, sans-serif; color: #2c2c2c; width:400px;" colspan="2" width="400"><span style="font-family: Arial, sans-serif; color:#2c2c2c">%%Street%%, %%City%%</span></td>
+            </tr>
+            <tr>
+               <td style=" font-size: 10pt; font-family: Arial, sans-serif; color: #2c2c2c; width:400px;" colspan="2" width="400"><span style="font-family: Arial, sans-serif; color:#2c2c2c">%%ZipCode%%, %%State%%, %%Country%%</span></td>
+            </tr>
+            <tr>
+               <td style=" font-size: 10pt; font-family: Arial, sans-serif; color: #2c2c2c; width:400px;" colspan="2" width="400"><span style="font-family: Arial, sans-serif; color:#2c2c2c">t: %%PhoneNumber%%</span></td>
+            </tr>
+            <tr>
+               <td style=" font-size: 10pt; font-family: Arial, sans-serif; color: #2c2c2c; width:400px;" colspan="2" width="400"><span style="font-family: Arial, sans-serif; color:#2c2c2c">m: %%MobileNumber%%</span></td>
+            </tr>
+            <tr>
+               <td style=" font-size: 10pt; font-family: Arial, sans-serif; color: #2c2c2c; width:400px;" colspan="2" width="400"><span style="font-family: Arial, sans-serif; color:#2c2c2c">e: %%Email%%</span></td>
+            </tr>
+            <tr>
+               <td style="width:400px;" colspan="2" width="400">&nbsp;</td>
+            </tr>
+            <tr>
+               <td style=" font-size: 10pt; font-family: Arial, sans-serif; font-weight:bold; color: #1793ce; width:200px; height:15px;" width="200"><span style="display:inline-block; height:15px; font-family: Arial, sans-serif; font-size: 9pt;"><a href="http://www.my-company.com" target="_blank" style="text-decoration:none;"><span style="font-family:Arial, sans-serif; color:#1793ce">www.my-company.com</span></a></span></td>
+               <td style="width:200px; text-align:right;" width="200"><span style="display:inline-block; height:15px;"><span><a href="https://www.facebook.com/MyCompany" target="_blank"><img border="0" width="15" height="15" style="border:0; height:15px; width:15px" src="https://www.mail-signatures.com/signature-generator/img/templates/all-inclusive/fb.png"></a>&nbsp;&nbsp;&nbsp;</span><span><a href="https://www.linkedin.com/company/mycompany404" target="_blank"><img border="0" width="15" height="15" style="border:0; height:15px; width:15px" src="https://www.mail-signatures.com/signature-generator/img/templates/all-inclusive/ln.png"></a>&nbsp;&nbsp;&nbsp;</span><span><a href="https://twitter.com/MyCompany404" target="_blank"><img border="0" width="15" height="15" style="border:0; height:15px; width:15px" src="https://www.mail-signatures.com/signature-generator/img/templates/all-inclusive/tt.png"></a>&nbsp;&nbsp;&nbsp;</span><span><a href="https://www.youtube.com/user/MyCompanyChannel" target="_blank"><img border="0" width="15" height="15" style="border:0; height:15px; width:15px" src="https://www.mail-signatures.com/signature-generator/img/templates/all-inclusive/yt.png"></a>&nbsp;&nbsp;&nbsp;</span><span><a href="https://www.instagram.com/mycompany404/" target="_blank"><img border="0" width="15" height="15" style="border:0; height:15px; width:15px" src="https://www.mail-signatures.com/signature-generator/img/templates/all-inclusive/it.png"></a>&nbsp;&nbsp;</span><span><a href="https://pinterest.com/mycompany404/" target="_blank"><img border="0" width="15" height="15" style="border:0; height:15px; width:15px" src="https://www.mail-signatures.com/signature-generator/img/templates/all-inclusive/pt.png"></a></span></span></td>
+            </tr>
+            <tr>
+               <td style="width:400px;" colspan="2" width="400">&nbsp;</td>
+            </tr>
+            <tr>
+               <td style=" width:400px; padding-top:4px;" colspan="2" width="400"><a href="https://www.codetwo.com/email-signatures/" target="_blank" rel="noopener"><img border="0" width="400" style="width:400px; height:auto; border:0;" src="https://www.mail-signatures.com/signature-generator/img/templates/all-inclusive/banner.png"></a></td>
+            </tr>
+            <tr>
+               <td style="width:400px;" colspan="2" width="400">&nbsp;</td>
+            </tr>
+            <tr>
+               <td style=" font-size:8pt; font-family:Arial,sans-serif; color:#878787; width:400px; text-align:justify;" colspan="2" width="400"><span style="font-family: Arial, sans-serif; color:#878787">The content of this email is confidential and intended for the recipient specified in message only. It is strictly forbidden to share any part of this message with any third party, without a written consent of the sender. If you received this message by mistake, please reply to this message and follow with its deletion, so that we can ensure such a mistake does not occur in the future.</span></td>
+            </tr>
+         </tbody>
+      </table>
+   </body>
+</html>
